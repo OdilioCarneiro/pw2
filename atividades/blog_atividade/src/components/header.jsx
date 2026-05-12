@@ -11,7 +11,7 @@ export default function Header() {
   return (
         <header>
     <div>
-        <h1>Meu Blog</h1>
+        <h1>Atividade blog</h1>
         <nav>
                 <NavLink to="/" style={navLinkStyles}>Início</NavLink>
             <NavLink to="/sobre" style={navLinkStyles}>Sobre</NavLink>
